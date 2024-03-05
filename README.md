@@ -1,2 +1,2 @@
 # nisamq
-inmemory messaging queues 
+inmemory messaging queues for faster message fetch 
