@@ -1,0 +1,2 @@
+# nisamq
+inmemory messaging queues 
